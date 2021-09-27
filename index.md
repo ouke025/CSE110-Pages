@@ -5,7 +5,7 @@ My name is *Ke Ou*. I am a senior **CSE** student at **_UCSD_**.
 
 ## Hobbies
 - Soccer 
-  - My favorite team: ~~Barcelona~~Real Madrid
+  - My favorite team: ~~Barcelona~~ Real Madrid
     ![Real Madrid](RM.png)
 - Video Games
 - Traveling
@@ -18,7 +18,7 @@ My name is *Ke Ou*. I am a senior **CSE** student at **_UCSD_**.
   
 
 
-## Top Three Things I Want to Learn From CSE 110
+## Top Three Things I Want to Learn From [CSE 110](https://github.com/ouke025/CSE110-Pages/blob/add-read-me2/index.md#my-homepage#Week-1-Assignments)
 1. Tools Software Engineering uses in industry
 2. Team work skills
 3. Experiences with building complex softwares
